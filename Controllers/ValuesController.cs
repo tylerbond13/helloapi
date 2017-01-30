@@ -20,7 +20,7 @@ namespace helloapi.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "value 5";
         }
 
         // POST api/values
